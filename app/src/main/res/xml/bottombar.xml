@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tab>
+    <tab
+        id="@+id/home"
+        icon="@drawable/ic_home_black_24dp"
+        activeColor="@color/colorPrimary"
+        titleSize="8dp"
+        title="Home"/>
+    <tab
+        id="@+id/booking"
+        icon="@drawable/ic_assignment_black_24dp"
+        activeColor="@color/colorPrimary"
+        titleSize="8dp"
+        title="Booking"/>
+    <tab
+        id="@+id/me"
+        icon="@drawable/ic_person_black_24dp"
+        activeColor="@color/colorPrimary"
+        titleSize="8dp"
+        title="Me"/>
+</Tab>
